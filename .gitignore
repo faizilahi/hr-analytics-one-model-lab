@@ -1,10 +1,7 @@
 __pycache__/
-*.pyc
 .venv/
-venv/
-.env
+output/
+*.pyc
 .DS_Store
-*.duckdb
-.ipynb_checkpoints/
-data/*.parquet
-!data/.gitkeep
+data/*.csv
+data/*.json
