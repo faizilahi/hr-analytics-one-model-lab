@@ -1,0 +1,6 @@
+department_id,department_name,cost_center
+D001,Engineering,TECH
+D002,Sales,GTM
+D003,Operations,OPS
+D004,People,HR
+D005,Finance,FIN

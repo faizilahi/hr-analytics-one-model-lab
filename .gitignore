@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.duckdb
+.ipynb_checkpoints/
+data/*.parquet
+!data/.gitkeep
